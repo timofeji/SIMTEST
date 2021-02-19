@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DD8C10D1-4636-A8F5-19F5-17AD865E5E8E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SIM",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
